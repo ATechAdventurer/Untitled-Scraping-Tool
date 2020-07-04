@@ -1,0 +1,25 @@
+{
+  "name": "Untitled-Scraping-Tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATechAdventurer/Untitled-Scraping-Tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ATechAdventurer/Untitled-Scraping-Tool/issues"
+  },
+  "homepage": "https://github.com/ATechAdventurer/Untitled-Scraping-Tool#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^5.0.0"
+  }
+}

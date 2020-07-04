@@ -1,0 +1,15 @@
+{
+    "name": "UST",
+    "version": "1.2",
+    "slug": "folder",
+    "description": "long description",
+    "arch": ["amd64", "armhf", "armv7"],
+    "url": "website with more information about add-on (e.g., a forum thread for support)",
+    "startup": "application",
+    "boot": "auto",
+    "ports": {},
+    "map": ["config:rw", "ssl"],
+    "options": {},
+    "schema": {},
+    "image": "repo/{arch}-my-custom-addon"
+  }
